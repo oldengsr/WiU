@@ -20,7 +20,7 @@ body{
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
-	border-bottom: 1px solid #9EE0DE; /*changes color of border under project name*/
+	border-bottom: 1px solid #FFFFFF; /*changes color of border under project name*/
 }
 h1{
 	font-family: 'Rock Salt', cursive;
